@@ -1,2 +1,2 @@
 vim_stat
-head
+head 5
